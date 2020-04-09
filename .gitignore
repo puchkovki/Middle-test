@@ -2,3 +2,9 @@
 *install*/
 *.swp
 .idea/
+_3rdParty/Hunter
+CMakeFiles
+.gitignore
+.gitmodules
+CMakeCache.txt
+
